@@ -12,7 +12,7 @@ DBMS_OUTPUT.PUT_LINE('{Toad_69109802_1}[1] I = ' || I);
 -- </Toad_69109802_1>
 
 
-DBMS_OUTPUT.PUT_LINE('{toad user HR}[1] I = ' || I);
+DBMS_OUTPUT.PUT_LINE('{toad user ususario HR}[1] I = ' || I);
 SELECT 1 INTO I 
 FROM HR.EMPLOYEES A
 WHERE A.EMPLOYEE_ID = C_ID;
